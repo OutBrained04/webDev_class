@@ -8,7 +8,7 @@ div {position: relative;}
 
 section {
 	background-color: grey; border: 1px solid black; padding: 10px; padding-top: 60px; height:200px; margin:50px auto; width: 90%; 
-	font-family: Helvetica; position: relative; 
+	font-family: Helvetica; position: relative; overflow: auto; 
 		}
 
 p {position: absolute; top: 0; right:0; border-bottom: 1px solid black; border-left: 1px solid black; margin:0; width:40%;
